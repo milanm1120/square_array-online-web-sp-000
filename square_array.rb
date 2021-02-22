@@ -5,4 +5,4 @@ def square_arrays(array)
   end
 end
 
-print square_arrays
+print square_arrays(array)
