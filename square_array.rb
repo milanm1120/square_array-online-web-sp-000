@@ -1,3 +1,5 @@
+array =[1, 2, 3, 4]
+
 def square_arrays(array)
   new_numbers=[]
   square_arrays each do |number|
@@ -5,4 +7,4 @@ def square_arrays(array)
   end
 end
 
-print square_arrays(1, 2, 3)
+print square_arrays(array)
