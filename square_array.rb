@@ -5,5 +5,3 @@ def square_arrays(numbers)
   end
   print new_numbers
 end
-
-square_arrays
