@@ -1,5 +1,4 @@
-def square_arrays
-  numbers =[1, 2, 3, 4, 9, 10, 16, 25]
+def square_arrays(numbers)
   new_numbers=[]
   numbers.each do |number|
     new_numbers<<number**2
